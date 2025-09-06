@@ -5,4 +5,3 @@ faiss-cpu
 transformers
 sentence-transformers
 accelerate
-unstructured
